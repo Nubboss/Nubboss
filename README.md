@@ -19,13 +19,13 @@ I’m a highly skilled Software Developer and System Administrator with a passio
 
 | Category                | Technologies                                         |
 | ----------------------- | ---------------------------------------------------- |
-| Programming Languages   | Python · Bash · C# · C++ ·                           |
+| Programming Languages   | Python · Bash · C# · C++ · GdScript                  |
 | Web Development         | Django · HTML · CSS · JavaScript                     |
 | Server Administration   | Linux · Nginx · Docker ·                             |
 | Cybersecurity & SIEM    | Suricata · ELK Stack · Auditd  · Fail2ban            |
-| Monitoring & Logging    | Zabbix · DPA ·               |
-| Industrial Automation   | Arduino ·STM32 · OPC server                          |
-
+| Monitoring & Logging    | Zabbix · DPA ·                                       |
+| Industrial Automation   | Arduino · STM32 · OPC server                         |
+| Game developed          | Godot · Unity                                        | 
 ---
 
 ## 📈 Experience Highlights
