@@ -35,9 +35,9 @@ I’m a highly skilled Software Developer and System Administrator with a passio
 - **High-Performance Infrastructure**  
   Architected and scaled server environments to support concurrent users with zero downtime.  
 - **Security & SIEM**  
-  Implemented custom SIEM workflows and real-time threat detection pipelines, improving incident response time by 60%.  
+  Implemented custom SIEM workflows and real-time threat detection pipelines 
 - **Custom Linux Distros**  
-  Built tailored Linux distributions optimized for embedded systems and specialized industrial controllers.
+  Built tailored Linux distributions optimized for embedded systems and specialized industrial computers.
 
 ---
 
