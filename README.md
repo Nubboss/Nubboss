@@ -25,7 +25,7 @@ I’m a highly skilled Software Developer and System Administrator with a passio
 | Cybersecurity & SIEM    | Suricata · ELK Stack · Auditd  · Fail2ban            |
 | Monitoring & Logging    | Zabbix · DPA ·                                       |
 | Industrial Automation   | Arduino · STM32 · OPC server                         |
-| Game developed          | Godot · Unity                                        | 
+| Game development        | Godot · Unity                                        | 
 ---
 
 ## 📈 Experience Highlights
