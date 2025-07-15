@@ -10,7 +10,7 @@ I’m a highly skilled Software Developer and System Administrator with a passio
 - 🛡️ Architecting secure SIEM, threat detection, and protection systems  
 - 🖥️ Managing and scaling Linux-based server infrastructures  
 - 🔍 Monitoring, logging, and performance optimization with Zabbix & DPA  
-- ⚙️ Developing industrial-automation drivers (Siemens, Okuma, etc.)  
+- ⚙️ Developing industrial-automation drivers in DPA system (Siemens, Okuma, etc.)  
 - 🐧 Crafting custom Linux distributions for specialized environments  
 
 ---
