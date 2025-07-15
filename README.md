@@ -51,9 +51,6 @@ I’m a highly skilled Software Developer and System Administrator with a passio
 
 ## 📫 Let’s Connect
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your.email@example.com  
 
 ---
 
