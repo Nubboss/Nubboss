@@ -23,7 +23,7 @@ I’m a highly skilled Software Developer and System Administrator with a passio
 | Web Development         | Django · HTML · CSS · JavaScript                     |
 | Server Administration   | Linux · Nginx · Docker ·                             |
 | Cybersecurity & SIEM    | Suricata · ELK Stack · Auditd  · Fail2ban            |
-| Monitoring & Logging    | Zabbix · DPA · Prometheus · Grafana                  |
+| Monitoring & Logging    | Zabbix · DPA ·               |
 | Industrial Automation   | Arduino ·STM32 · OPC server                          |
 
 ---
