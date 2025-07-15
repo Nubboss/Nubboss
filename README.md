@@ -57,4 +57,3 @@ I’m a highly skilled Software Developer and System Administrator with a passio
 
 ---
 
-*“Simplicity is the ultimate sophistication.”* – Leonardo da Vinci  
